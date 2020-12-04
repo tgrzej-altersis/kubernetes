@@ -10,5 +10,5 @@ spec:
     name: store
   minReplicas: 1
   maxReplicas: 4
-  targetCPUUtilizationPercentage: 50
+  targetCPUUtilizationPercentage: 35
   
